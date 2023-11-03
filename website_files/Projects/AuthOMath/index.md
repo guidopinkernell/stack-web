@@ -5,12 +5,12 @@ title: "AuthOMath: Authoring online mathematics tasks"
 ---
 # AuthOMath: Authoring online mathematics tasks
 <p class="figure-caption">Start date: 01/05/2021<br>
-End date: 31/12/2023</p>
+End date: 27/02/2024</p>
 
 __Official project website:__ [https://www.authomath.org/](https://www.authomath.org/)
 
 This project aimed to foster the development of innovative approaches to online and distance
-learning especially in primary and secondary education.   In particular,  the project aims at enabling teachers to create digital online learning material with multimodal,
+learning especially in primary and secondary education. In particular, the project aims at enabling teachers to create digital online learning material with multimodal,
 dynamic, and interactive elements, (GeoGebra) and with adaptive automatic feedback for use in hybrid settings.
 
 <center>
@@ -33,7 +33,7 @@ Combining GeoGebra and STACK is a promising approach to developing an authoring 
 
 Participating Organisations
 
-* Pädagogische Hochschule Heidelberg, Germany (Programme Country Institution)
+* Pädagogische Hochschule Heidelberg, Germany (Programme Country Institution, Coordinator)
 * Johann Kepler Universität Linz, Austria (Programme Country Institution)
 * Universidad de Cantabria, Spain (Programme Country Institution)
 * University of Edinburgh United, Kingdom (Partner Country Institution)
