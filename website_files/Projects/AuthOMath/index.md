@@ -60,3 +60,36 @@ This site contains sample materials which illustrate the outcomes from the proje
 <td>
 </tr>
 </table>
+
+<table  style="width: 100%;" border="0">
+
+        <tr>
+
+            <td style="width: 50%; text-align: left;  vertical-align: middle;"><img src="/pix/authomath/PHHD.png" height="50"> <img src="/pix/authomath/UoE.png" height="50"> <img src="/pix/authomath/UC.png" height="50"> <img src="/pix/authomath/JKU.png" height="50">
+ <p style="font-size: 10px"><a href="https://www.authomath.org/?page_id=212" target="_blank">imprint and privacy policy</a></p></td>
+
+            <td style="text-align: right;">
+                   <table style="width: 100%;" border="0">
+                       <body>
+                           <tr>
+                              <td style="width: 75%;"></td>
+                              <td style="text-align: right; vertical-align: middle;"><div style='width: 300px;'>
+                              <p style="font-size: 9px">
+                              The creation of these resources has been (partially) funded by the ERASMUS+ grant program of the European Union under grant 
+                              No. 2021-1-DE01-KA220-HED-000032031. Neither the European Commission nor the project's national funding agency DAAD are responsible
+                              for the content or liable for any losses or damage resulting of the use of these resources.</p></div>
+                              </td>
+                              <td style="text-align: right;  vertical-align: top;">
+                                      <div style='width: 80px;'>
+                                      <img src="/pix/authomath/EU.png" width="75">
+                                      </div>
+                              </td>
+                          </tr>
+                      </body>
+                   </table>
+             </td>     
+ 
+        </tr>
+
+</table>
+
